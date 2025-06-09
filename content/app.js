@@ -3,41 +3,37 @@
 const bodyCopy = {
   section_about_title: "About Me",
   section_about_p_1:
-    "I am a Software engineer with 4 years of commercial experience, specializing in creating engaging and responsive web applications. I'm a recent Graduate student at the University of Cincinnati. I ❤️ problem solving, photography and building computers.",
+    "I’m a Software Engineer with over 3 years of professional experience, specializing in building scalable and efficient software systems across web, backend, and cloud platforms. I hold a Master’s degree in Information Technology from the University of Cincinnati.",
   section_about_p_2:
-    "My work is focused on delivering responsive and lightweight solutions, ensuring seamless user experiences across various devices and browsers. I take pride in documenting each project meticulously, enabling easy maintenance and scalability for your website or web application as your company grows.",
+    "I thrive on solving complex engineering problems, whether it’s designing robust APIs, optimizing data flows, or automating infrastructure. Outside work, I enjoy building custom PCs, modifying Car's and Photography - anything that combines creativity with precision.",
 
   section_experience_title: "Experience",
   section_experience_p_1: "I have a proven track record in:",
   section_experience_li_1:
-    "Creating pixel-perfect and responsive user interfaces using React, JavaScript, HTML and CSS.",
+    "Designing and implementing RESTful APIs",
   section_experience_li_2:
     "Collaborating with cross-functional teams, including designers, backend developers, and project managers.",
   section_experience_li_3:
-    "Building data visualizations that present complex information in an intuitive and visually appealing manner.",
+    "Developing backend systems integrated with SQL and NoSQL databases like MySQL and MongoDB",
   section_experience_li_4:
-    "Optimizing website performance to achieve faster loading times and better user engagement.",
+    "Automating infrastructure and deployment using AWS, Docker, and CI/CD tools like Jenkins",
   section_experience_li_5:
-    "Integrating custom designs into content management systems (CMS) like Sitecore.",
+    "Improving system performance, data models, and scalability for global rollouts",
   section_experience_li_6:
-    "Ensuring accessibility standards (WCAG) are met to make web content inclusive for all users.",
+    "Writing and maintaining end-to-end test frameworks with tools like Playwright and Postman",
 
   section_skills_title: "Skills",
   section_skills_p_1: "My key skills include:",
   section_skills_li_1:
-    "Proficient in HTML, CSS, and JavaScript, with a focus on modern frontend frameworks like React and Vue.js.",
+    "Java, Python, JavaScript (ES6), TypeScript, Spring Boot, React, Node.js, Next.js, Express",
   section_skills_li_2:
-    "Experience with CSS preprocessors (e.g., Sass) to streamline and organize stylesheets.",
+    "AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, Jenkins, GitHub Actions",
   section_skills_li_3:
-    "Familiarity with version control systems like Git for collaborative development.",
+    "MySQL, SQL Server, PostgreSQL, MongoDB, DynamoDB",
   section_skills_li_4:
-    "Knowledge of responsive design principles and mobile-first development.",
+    "JUnit, Playwright, Postman",
   section_skills_li_5:
-    "Understanding of SEO best practices to optimize website visibility in search engines.",
-  section_skills_li_6:
-    "Ability to work with design tools such as Figma to interpret and implement UI/UX designs.",
-  section_skills_li_7:
-    "Continuous learning and keeping up-to-date with the latest trends and technologies in full stack development.",
+    "Git, Figma, REST APIs, GraphQL, Agile/Scrum, Data Structures & Algorithms",
 
   section_projects_title: "Projects",
   section_projects_p_1: "Some of the projects I have worked on include:",
