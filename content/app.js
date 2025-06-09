@@ -3,7 +3,7 @@
 const bodyCopy = {
   section_about_title: "About Me",
   section_about_p_1:
-    "I’m a Software Engineer with over 3 years of professional experience, specializing in building scalable and efficient software systems across web, backend, and cloud platforms. I hold a Master’s degree in Information Technology from the University of Cincinnati.",
+    "I’m a Software Engineer with over 4 years of professional experience, specializing in building scalable and efficient software systems across web, backend, and cloud platforms. I hold a Master’s degree in Information Technology from the University of Cincinnati.",
   section_about_p_2:
     "I thrive on solving complex engineering problems, whether it’s designing robust APIs, optimizing data flows, or automating infrastructure. Outside work, I enjoy building custom PCs, modifying Car's and Photography - anything that combines creativity with precision.",
 
