@@ -3,7 +3,7 @@
 const bodyCopy = {
   section_about_title: "About Me",
   section_about_p_1:
-    "I am a Software engineer with 3 years of commercial experience, specializing in creating engaging and responsive web applications. I'm a recent Graduate student at the University of Cincinnati. I ❤️ problem solving, photography and building computers.",
+    "I am a Software engineer with 4 years of commercial experience, specializing in creating engaging and responsive web applications. I'm a recent Graduate student at the University of Cincinnati. I ❤️ problem solving, photography and building computers.",
   section_about_p_2:
     "My work is focused on delivering responsive and lightweight solutions, ensuring seamless user experiences across various devices and browsers. I take pride in documenting each project meticulously, enabling easy maintenance and scalability for your website or web application as your company grows.",
 
